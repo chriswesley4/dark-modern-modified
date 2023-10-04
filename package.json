@@ -1,0 +1,25 @@
+{
+    "name": "dark-modern-modified",
+    "displayName": "Dark Modern Modified",
+    "description": "Dark modern but with lighter blues, purples, and whites",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.82.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Modern Modified",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Modern Modified-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    }
+}
