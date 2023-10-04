@@ -18,6 +18,8 @@
             }
         ]
     },
+    "license": "MIT",
+    "publisher": "ChrisWesley",
     "repository": {
         "type": "git",
         "url": "https://github.com/chriswesley4/dark-modern-modified.git"
