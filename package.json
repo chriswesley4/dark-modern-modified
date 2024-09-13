@@ -2,8 +2,8 @@
     "name": "dark-modern-modified",
     "displayName": "Dark Modern Modified",
     "description": "Dark modern but with lighter blues, purples, and whites",
-    "version": "0.0.1",
-    "icon": "Dark Modern Modified Sample Code.png",
+    "version": "0.0.2",
+    "icon": "Dark-Modern-Modified-Sample-Code.png",
     "engines": {
         "vscode": "^1.82.0"
     },
