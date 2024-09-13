@@ -1,16 +1,11 @@
-# dark-modern-modified README
+# Dark Modern Modified
 
-## Working with Markdown
+A theme extension that is mostly based on the oh so joyous blues, purples and whites for a majority of code displayed, with the accent colors of yellow and mint.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Comments are displayed as a neutral italicized gray that is easy to read, but not such a background color it's easy to miss.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+I've found myself perfectly addicted to this color schema as it forces me to read a lot more of what's going on without being too flat of a color scheme. The goal was to make reading code still fun to not be overly easy or overly difficult with too much or too little color.
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Dark Modern Modified Sample Code](Dark%20Modern%20Modified%20Sample%20Code.png)
 
 **Enjoy!**
